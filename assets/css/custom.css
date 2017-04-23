@@ -1,0 +1,118 @@
+    /*!---------- PLACE YOUR CUSTOM STYLES AND OVERRIDES HERE ----------*/
+
+@media (max-height: 900px) theme-olive.css:1715 .header-4 .container {
+    height: 25vh;
+}
+
+#middlePage {
+    background-color: #4357AD;
+}
+
+
+
+element.style {
+    height: 500px;
+    width: 200px;
+}
+
+.header-4 .hero-slider {
+    max-height: 120vh;
+    overflow: hidden;
+}
+
+nav .logo {
+    max-height: 50px;
+    width: 200px;
+    height: 400px;
+}
+
+#topButton{
+    background-color: #B6D982;
+}
+
+nav ul li {
+
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #6F6866;
+}
+
+.subnav {
+    background: #fff;
+    min-width: 315px;
+    font-size: 16px
+    font-weight: lighter;
+    background-color: #B6D982;
+
+}
+
+#AT{
+
+    font-weight: bold;
+}
+
+#bottomInfo{
+    background-color: #48A9A6;
+    color: #fff;
+}
+
+p.lead {
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 15px;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #FFFF00;
+    color: #FFC0CB;
+}
+
+#colorM a:hover {
+
+    background-color: #B6D982;
+
+
+
+}
+
+.features-15 .feature {
+    padding: 60px 43.33333333px;
+    background: #6f6866;
+    transition: all 0.3s ease;
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    border: 1px solid #6f6866;
+}
+
+.features-15 .feature:nth-of-type(2) {
+    background: #7c7573;
+
+}
+
+.features-15 .feature:nth-of-type(3) {
+    background: #898381;
+
+    }
+
+.fa-user:before {
+    content: "\f007";
+color: #E4DFDA;
+}
+
+
+.fa-globe:before {
+    content: "\f0ac";
+    color: #E4DFDA;
+
+}
+
+.fa-lightbulb-o:before {
+    content: "\f0eb";
+    color: #E4DFDA;
+}
+
+
+
+
+
