@@ -1,5 +1,8 @@
     /*!---------- PLACE YOUR CUSTOM STYLES AND OVERRIDES HERE ----------*/
+body {
 
+    font-family: 'Josefin Sans', sans-serif;
+}
 @media (max-height: 900px) theme-olive.css:1715 .header-4 .container {
     height: 25vh;
 }
